@@ -17,4 +17,4 @@ Allows to search for all word instances by inflection:
 
 Get statistical information:
 
-<img src="statistics.png">
+<img src="statistics.PNG">

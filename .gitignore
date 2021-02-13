@@ -1,0 +1,7 @@
+.vs/
+bin/
+obj/
+packages/
+*.sln
+concordance/Data/files/*.txt
+concordance/Code/stanford/

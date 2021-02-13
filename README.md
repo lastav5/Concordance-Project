@@ -13,7 +13,7 @@ Allows to search for word instances accross all files:
 Allows to search for all word instances by inflection:
 
 
-<img src="searchByInflectionPage.png">
+<img src="searchByInflectionPage.PNG">
 
 Get statistical information:
 
